@@ -1,0 +1,817 @@
+Starting ProductServiceImplTest on LAPTOP-AVJFS9J6 with PID 16800 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 114ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$89d49888] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started ProductServiceImplTest in 11.855 seconds (JVM running for 14.009)------
+HHH000397: Using ASTQueryTranslatorFactory------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 2820 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 48ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c87e3a85] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 1368 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 9.131 seconds (JVM running for 10.208)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 6 ms------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 20472 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 50ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$a9a6196f] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 1027 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 7.203 seconds (JVM running for 8.05)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 6 ms------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 12356 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 50ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$345504ac] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 985 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 5.102 seconds (JVM running for 5.915)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 6 ms------
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2h4m23s322ms879µs401ns).------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 13040 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 495ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$970e695e] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 2327 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 10.46 seconds (JVM running for 12.151)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 7 ms------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 856 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 48ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$6e4f2982] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 1024 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+Unable to determine jdbc url from datasource------
+org.springframework.jdbc.support.MetaDataAccessException: Could not get Connection for extracting meta-data; nested exception is org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at org.springframework.jdbc.support.JdbcUtils.extractDatabaseMetaData(JdbcUtils.java:329)
+	at org.springframework.jdbc.support.JdbcUtils.extractDatabaseMetaData(JdbcUtils.java:357)
+	at org.springframework.boot.autoconfigure.orm.jpa.DatabaseLookup.getDatabase(DatabaseLookup.java:73)
+	at org.springframework.boot.autoconfigure.orm.jpa.JpaProperties.determineDatabase(JpaProperties.java:142)
+	at org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration.jpaVendorAdapter(JpaBaseConfiguration.java:113)
+	at org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration$$EnhancerBySpringCGLIB$$8d25ebf1.CGLIB$jpaVendorAdapter$4(<generated>)
+	at org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration$$EnhancerBySpringCGLIB$$8d25ebf1$$FastClassBySpringCGLIB$$39fc9e86.invoke(<generated>)
+	at org.springframework.cglib.proxy.MethodProxy.invokeSuper(MethodProxy.java:244)
+	at org.springframework.context.annotation.ConfigurationClassEnhancer$BeanMethodInterceptor.intercept(ConfigurationClassEnhancer.java:363)
+	at org.springframework.boot.autoconfigure.orm.jpa.HibernateJpaConfiguration$$EnhancerBySpringCGLIB$$8d25ebf1.jpaVendorAdapter(<generated>)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:154)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiate(ConstructorResolver.java:622)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:456)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1255)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1175)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:277)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1255)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1175)
+	at org.springframework.beans.factory.support.ConstructorResolver.resolveAutowiredArgument(ConstructorResolver.java:857)
+	at org.springframework.beans.factory.support.ConstructorResolver.createArgumentArray(ConstructorResolver.java:760)
+	at org.springframework.beans.factory.support.ConstructorResolver.instantiateUsingFactoryMethod(ConstructorResolver.java:509)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateUsingFactoryMethod(AbstractAutowireCapableBeanFactory.java:1321)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1160)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:555)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1105)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204)
+	at com.zd.sell.SellApplication.main(SellApplication.java:10)
+Caused by: org.springframework.jdbc.CannotGetJdbcConnectionException: Failed to obtain JDBC Connection; nested exception is com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:82)
+	at org.springframework.jdbc.support.JdbcUtils.extractDatabaseMetaData(JdbcUtils.java:320)
+	... 62 common frames omitted
+Caused by: com.mysql.cj.jdbc.exceptions.CommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at com.mysql.cj.jdbc.exceptions.SQLError.createCommunicationsException(SQLError.java:174)
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:64)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:827)
+	at com.mysql.cj.jdbc.ConnectionImpl.<init>(ConnectionImpl.java:447)
+	at com.mysql.cj.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:237)
+	at com.mysql.cj.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:199)
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:136)
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:369)
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:198)
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:467)
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:541)
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115)
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112)
+	at org.springframework.jdbc.datasource.DataSourceUtils.fetchConnection(DataSourceUtils.java:158)
+	at org.springframework.jdbc.datasource.DataSourceUtils.doGetConnection(DataSourceUtils.java:116)
+	at org.springframework.jdbc.datasource.DataSourceUtils.getConnection(DataSourceUtils.java:79)
+	... 63 common frames omitted
+Caused by: com.mysql.cj.exceptions.CJCommunicationsException: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:61)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:105)
+	at com.mysql.cj.exceptions.ExceptionFactory.createException(ExceptionFactory.java:151)
+	at com.mysql.cj.exceptions.ExceptionFactory.createCommunicationsException(ExceptionFactory.java:167)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:91)
+	at com.mysql.cj.NativeSession.connect(NativeSession.java:150)
+	at com.mysql.cj.jdbc.ConnectionImpl.connectOneTryOnly(ConnectionImpl.java:947)
+	at com.mysql.cj.jdbc.ConnectionImpl.createNewIO(ConnectionImpl.java:817)
+	... 76 common frames omitted
+Caused by: java.net.ConnectException: Connection timed out: connect
+	at java.base/java.net.PlainSocketImpl.waitForConnect(Native Method)
+	at java.base/java.net.PlainSocketImpl.socketConnect(PlainSocketImpl.java:107)
+	at java.base/java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:399)
+	at java.base/java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:242)
+	at java.base/java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:224)
+	at java.base/java.net.SocksSocketImpl.connect(SocksSocketImpl.java:403)
+	at java.base/java.net.Socket.connect(Socket.java:591)
+	at com.mysql.cj.protocol.StandardSocketFactory.connect(StandardSocketFactory.java:155)
+	at com.mysql.cj.protocol.a.NativeSocketConnection.connect(NativeSocketConnection.java:65)
+	... 79 common frames omitted
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HHH000342: Could not obtain connection to query metadata : Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.------
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]------
+Stopping service [Tomcat]------
+
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 22852 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 94ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ffed1b4] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 2152 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 12.311 seconds (JVM running for 14.937)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 20 ms------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 27780 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 47ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$cae82fe1] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 984 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 5.503 seconds (JVM running for 6.293)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 6 ms------
+Starting ProductInfoRepositoryTest on LAPTOP-AVJFS9J6 with PID 25668 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 72ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c5fe5d2c] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started ProductInfoRepositoryTest in 9.501 seconds (JVM running for 10.676)------
+HHH000397: Using ASTQueryTranslatorFactory------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting ProductServiceImplTest on LAPTOP-AVJFS9J6 with PID 26648 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 74ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$bd3d10ae] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started ProductServiceImplTest in 9.39 seconds (JVM running for 10.132)------
+HHH000397: Using ASTQueryTranslatorFactory------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting ProductServiceImplTest on LAPTOP-AVJFS9J6 with PID 19856 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 73ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$89d49888] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started ProductServiceImplTest in 8.461 seconds (JVM running for 9.203)------
+HHH000397: Using ASTQueryTranslatorFactory------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 10900 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 42ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$8037d0ce] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 948 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 6.404 seconds (JVM running for 7.205)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 6 ms------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 28284 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 52ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$1a45d638] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 1008 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 7.113 seconds (JVM running for 9.032)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 6 ms------
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m22s639ms932µs957ns).------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 23204 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 50ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$dd905845] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 1081 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 7.705 seconds (JVM running for 8.559)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 5 ms------
+HHH000397: Using ASTQueryTranslatorFactory------
+Starting ProductServiceImplTest on LAPTOP-AVJFS9J6 with PID 23424 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 76ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$89d49888] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started ProductServiceImplTest in 8.819 seconds (JVM running for 9.621)------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 23336 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 45ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$ab4fce11] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 990 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 5.906 seconds (JVM running for 6.712)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 5 ms------
+HHH000397: Using ASTQueryTranslatorFactory------
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m39s404ms804µs814ns).------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 3124 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 47ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$c484b246] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 1002 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 6.709 seconds (JVM running for 7.52)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 7 ms------
+HHH000397: Using ASTQueryTranslatorFactory------
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m19s155ms576µs291ns).------
+Starting SellApplication on LAPTOP-AVJFS9J6 with PID 14140 (F:\ideaworkspace\sell\target\classes started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 50ms. Found 2 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$69130d14] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+Tomcat initialized with port(s): 8080 (http)------
+Initializing ProtocolHandler ["http-nio-8080"]------
+Starting service [Tomcat]------
+Starting Servlet engine: [Apache Tomcat/9.0.26]------
+Initializing Spring embedded WebApplicationContext------
+Root WebApplicationContext: initialization completed in 1014 ms------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Starting ProtocolHandler ["http-nio-8080"]------
+Tomcat started on port(s): 8080 (http) with context path '/sell'------
+Started SellApplication in 6.39 seconds (JVM running for 7.26)------
+Initializing Spring DispatcherServlet 'dispatcherServlet'------
+Initializing Servlet 'dispatcherServlet'------
+Completed initialization in 6 ms------
+HHH000397: Using ASTQueryTranslatorFactory------
+Starting OrderMasterRepositoryTest on LAPTOP-AVJFS9J6 with PID 18000 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 322ms. Found 4 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$3c0dcc73] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started OrderMasterRepositoryTest in 14.052 seconds (JVM running for 15.446)------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting OrderMasterRepositoryTest on LAPTOP-AVJFS9J6 with PID 10312 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 66ms. Found 4 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7ca48c16] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started OrderMasterRepositoryTest in 9.759 seconds (JVM running for 10.508)------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting OrderMasterRepositoryTest on LAPTOP-AVJFS9J6 with PID 27628 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 63ms. Found 4 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$7ca48c16] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+Starting OrderMasterRepositoryTest on LAPTOP-AVJFS9J6 with PID 28664 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 103ms. Found 4 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$9173f2cf] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started OrderMasterRepositoryTest in 9.056 seconds (JVM running for 10.42)------
+HHH000397: Using ASTQueryTranslatorFactory------
+Starting OrderDetailRepositoryTest on LAPTOP-AVJFS9J6 with PID 15928 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 98ms. Found 4 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b33991dc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started OrderDetailRepositoryTest in 11.825 seconds (JVM running for 12.652)------
+SQL Error: 1048, SQLState: 23000------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting OrderDetailRepositoryTest on LAPTOP-AVJFS9J6 with PID 23008 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m25s850ms210µs597ns).------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 744ms. Found 4 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$b33991dc] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started OrderDetailRepositoryTest in 15.248 seconds (JVM running for 16.687)------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting OrderDetailRepositoryTest on LAPTOP-AVJFS9J6 with PID 1648 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m8s267ms163µs794ns).------
+Finished Spring Data repository scanning in 94ms. Found 4 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$eaac8dfa] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started OrderDetailRepositoryTest in 11.512 seconds (JVM running for 12.216)------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+Starting OrderDetailRepositoryTest on LAPTOP-AVJFS9J6 with PID 10384 (started by lenovo in F:\ideaworkspace\sell)------
+No active profile set, falling back to default profiles: default------
+Bootstrapping Spring Data repositories in DEFAULT mode.------
+Finished Spring Data repository scanning in 73ms. Found 4 repository interfaces.------
+Bean 'org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration' of type [org.springframework.transaction.annotation.ProxyTransactionManagementConfiguration$$EnhancerBySpringCGLIB$$d32ac156] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)------
+HikariPool-1 - Starting...------
+Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.------
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m16s67ms701µs672ns).------
+HikariPool-1 - Start completed.------
+HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]------
+HHH000412: Hibernate Core {5.3.12.Final}------
+HHH000206: hibernate.properties not found------
+HCANN000001: Hibernate Commons Annotations {5.0.4.Final}------
+HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect------
+Initialized JPA EntityManagerFactory for persistence unit 'default'------
+Initializing ExecutorService 'applicationTaskExecutor'------
+spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning------
+Started OrderDetailRepositoryTest in 10.924 seconds (JVM running for 11.623)------
+HHH000397: Using ASTQueryTranslatorFactory------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
+HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m9s243ms192µs128ns).------
+Shutting down ExecutorService 'applicationTaskExecutor'------
+Closing JPA EntityManagerFactory for persistence unit 'default'------
+HikariPool-1 - Shutdown initiated...------
+HikariPool-1 - Shutdown completed.------
