@@ -1,4 +1,4 @@
-2019-10-10 17:47:41.590  INFO 17540 --- [main] com.zd.sell.LoggerTest                   : Starting LoggerTest on LAPTOP-AVJFS9J6 with PID 17540 (started by lenovo in F:\ideaworkspace\sell)
+019-10-10 17:47:41.590  INFO 17540 --- [main] com.zd.sell.LoggerTest                   : Starting LoggerTest on LAPTOP-AVJFS9J6 with PID 17540 (started by lenovo in F:\ideaworkspace\sell)
 2019-10-10 17:47:41.592  INFO 17540 --- [main] com.zd.sell.LoggerTest                   : No active profile set, falling back to default profiles: default
 2019-10-10 17:47:42.481  INFO 17540 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
 2019-10-10 17:47:42.505  INFO 17540 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 15ms. Found 0 repository interfaces.
